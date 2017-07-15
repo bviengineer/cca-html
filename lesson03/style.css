@@ -1,0 +1,17 @@
+/***********************************
+GENERAL
+************************************/
+body {
+   background-color: burlywood;
+   font-size: 20px;
+}
+
+#paraLinks a:link, a:visited {
+    text-decoration: underline;
+}
+    
+#paraLinks a:active, a:hover {
+    background-color: peru;
+}
+
+    
